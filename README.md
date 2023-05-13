@@ -13,7 +13,7 @@ cd src/
 git clone https://github.com/FilipeAlmeidaFEUP/ros2_teleopkeys_publisher.git
 ```
 
-Again sinside the workspace folder, to build and install the dependencies, run the following commands:
+Again inside the workspace folder, to build and install the dependencies, run the following commands:
 
 ```
 source install/setup.bash
