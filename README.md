@@ -73,4 +73,4 @@ Not all keys are interpreted by the note. The following table shows the ones ava
 
 </center>
 
-NOTE: If you want to add more keys, just follow the instructions in the `TODO` comments in the file `teleopkeys_publisher/__init__.py`
+NOTE: If you want to add more keys, just follow the instructions in the `TODO` comments in the file [\_\_init\_\_.py](teleopkeys_publisher/__init__.py).
