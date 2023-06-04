@@ -16,9 +16,9 @@ git clone https://github.com/FilipeAlmeidaFEUP/ros2_teleopkeys_publisher.git
 Again inside the workspace folder, to build and install the dependencies, run the following commands:
 
 ```
-source install/setup.bash
 rosdep install -i --from-path src --rosdistro humble -y
 colcon build
+source install/setup.bash
 ```
 
 To run the node execute:
